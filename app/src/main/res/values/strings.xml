@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="error_message_username">Enter Username</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_username_password">Wrong Username or Password</string>
+</resources>
